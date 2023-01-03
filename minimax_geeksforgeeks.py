@@ -1,3 +1,8 @@
+"""
+Minimax Algorithm in Game Theory | Set 4 (Alpha-Beta Pruning)
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+"""
+
 # Python3 program to demonstrate
 # working of Alpha-Beta Pruning
 
